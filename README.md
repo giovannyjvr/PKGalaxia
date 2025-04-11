@@ -11,7 +11,7 @@ PKGalaxia é um jogo 2D desenvolvido em Unity com o objetivo de resgatar todos o
 
 ## 📷 Captura de tela
 
-![Gameplay Screenshot](coloque-o-link-de-uma-imagem-aqui)
+![Gameplay Screenshot](image.png)
 
 ## 💻 Tecnologias Utilizadas
 
